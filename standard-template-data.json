@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.3.0",
-    "generatedAt": "2026-10-12T05:37:53.793550769Z",
+    "version": "1.4.0",
+    "generatedAt": "2026-10-12T05:39:06.922096727Z",
     "templateType": "trip_l",
     "propertyId": "e92e3bbf-a256-4cbf-b11d-872f84e7a242",
     "homepageId": "01a0aa25-f810-792a-8810-757f4964d72e"
@@ -1795,48 +1795,42 @@
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0aa25-f810-792a-8810-757f4964d72e/main_about/1789561012281-7j5v0ql7ns.jpg",
                       "sortOrder": 0,
                       "description": "풀빌라",
-                      "isSelected": true,
-                      "blockId": "4c5d2fd7-f0e0-4c53-9db3-77a92226275a"
+                      "isSelected": true
                     },
                     {
                       "id": "01a0aa26-29ad-778f-bf2a-9400bc20d17c",
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0aa25-f810-792a-8810-757f4964d72e/main_about/1789561012459-uyjfw1kwlz.jpg",
                       "sortOrder": 1,
                       "description": "신축",
-                      "isSelected": true,
-                      "blockId": "4c5d2fd7-f0e0-4c53-9db3-77a92226275a"
+                      "isSelected": true
                     },
                     {
                       "id": "01a0aa26-29b5-7c40-95f3-40199539c3d8",
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0aa25-f810-792a-8810-757f4964d72e/main_about/1789561012568-2dei98o5pk.jpg",
                       "sortOrder": 2,
                       "description": "리버뷰",
-                      "isSelected": true,
-                      "blockId": "4c5d2fd7-f0e0-4c53-9db3-77a92226275a"
+                      "isSelected": true
                     },
                     {
                       "id": "01a0aa26-29df-7187-b8b1-70278cda2c79",
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0aa25-f810-792a-8810-757f4964d72e/main_about/1789561012657-tczz8o5ex0.jpg",
                       "sortOrder": 3,
                       "description": "",
-                      "isSelected": true,
-                      "blockId": "4c5d2fd7-f0e0-4c53-9db3-77a92226275a"
+                      "isSelected": true
                     },
                     {
                       "id": "01a0aa26-29c9-7aea-a033-0e2932299d36",
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0aa25-f810-792a-8810-757f4964d72e/main_about/1789561012688-xyldlfhzx1.jpg",
                       "sortOrder": 4,
                       "description": "",
-                      "isSelected": true,
-                      "blockId": "4c5d2fd7-f0e0-4c53-9db3-77a92226275a"
+                      "isSelected": true
                     },
                     {
                       "id": "01a0aa26-29c3-77cc-9f55-3fbb17d472a7",
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0aa25-f810-792a-8810-757f4964d72e/main_about/1789561012743-fwt3zkrhax.jpg",
                       "sortOrder": 5,
                       "description": "",
-                      "isSelected": true,
-                      "blockId": "4c5d2fd7-f0e0-4c53-9db3-77a92226275a"
+                      "isSelected": true
                     }
                   ],
                   "blockId": "4c5d2fd7-f0e0-4c53-9db3-77a92226275a",
@@ -2002,8 +1996,7 @@
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0aa25-f810-792a-8810-757f4964d72e/nearby_attractions_about/1789561013086-e0tbozlpqp.jpg",
                       "sortOrder": 0,
                       "description": "(사진출처 : 대한민국 구석구석)",
-                      "isSelected": true,
-                      "blockId": "0dfa73c5-be18-48c8-a3dd-34c7faa24184"
+                      "isSelected": true
                     }
                   ],
                   "blockId": "0dfa73c5-be18-48c8-a3dd-34c7faa24184",
@@ -2017,8 +2010,7 @@
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0aa25-f810-792a-8810-757f4964d72e/nearby_attractions_about/1789561013110-suul1xlv4u.jpg",
                       "sortOrder": 1,
                       "description": "(사진출처 : 대한민국 구석구석)",
-                      "isSelected": true,
-                      "blockId": "c2770f13-76df-45f9-bf29-e7cc7b1e0541"
+                      "isSelected": true
                     }
                   ],
                   "blockId": "c2770f13-76df-45f9-bf29-e7cc7b1e0541",
@@ -2032,8 +2024,7 @@
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0aa25-f810-792a-8810-757f4964d72e/nearby_attractions_about/1789561013270-83ip4crwni.jpg",
                       "sortOrder": 2,
                       "description": "(사진출처 : 대한민국 구석구석)",
-                      "isSelected": true,
-                      "blockId": "6a1e10e9-f6db-40c7-b389-5a169edc04d3"
+                      "isSelected": true
                     }
                   ],
                   "blockId": "6a1e10e9-f6db-40c7-b389-5a169edc04d3",
@@ -2047,8 +2038,7 @@
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0aa25-f810-792a-8810-757f4964d72e/nearby_attractions_about/1789561013362-liq9kokyg7.jpg",
                       "sortOrder": 3,
                       "description": "(사진출처 : 대한민국 구석구석)",
-                      "isSelected": true,
-                      "blockId": "e1b808a1-b183-4f77-b6c0-9409448b502c"
+                      "isSelected": true
                     }
                   ],
                   "blockId": "e1b808a1-b183-4f77-b6c0-9409448b502c",
@@ -2062,8 +2052,7 @@
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0aa25-f810-792a-8810-757f4964d72e/nearby_attractions_about/1789561013399-ibwza5gmdc.jpg",
                       "sortOrder": 4,
                       "description": "(사진출처 : 대한민국 구석구석)",
-                      "isSelected": true,
-                      "blockId": "593d7d1e-cfd0-450c-9644-f8dd88e8dcee"
+                      "isSelected": true
                     }
                   ],
                   "blockId": "593d7d1e-cfd0-450c-9644-f8dd88e8dcee",
@@ -2077,8 +2066,7 @@
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0aa25-f810-792a-8810-757f4964d72e/nearby_attractions_about/1789561013640-g48kbwi62g.jpg",
                       "sortOrder": 5,
                       "description": "(사진출처 : 대한민국 구석구석)",
-                      "isSelected": true,
-                      "blockId": "60520e4a-859e-4883-8e79-78e00d4b750e"
+                      "isSelected": true
                     }
                   ],
                   "blockId": "60520e4a-859e-4883-8e79-78e00d4b750e",
@@ -2140,8 +2128,7 @@
                 "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0aa25-f810-792a-8810-757f4964d72e/popup/1789561013891-wn4jbo6nys.jpg",
                 "sortOrder": 0,
                 "description": "",
-                "isSelected": true,
-                "blockId": "a45b83dd-c2b7-4ef2-a411-bad85b2ae9d8"
+                "isSelected": true
               }
             ],
             "slider": false,
