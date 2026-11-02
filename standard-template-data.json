@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.7.0",
-    "generatedAt": "2026-11-02T10:20:32.400196890Z",
+    "version": "1.8.0",
+    "generatedAt": "2026-11-02T10:22:07.802467576Z",
     "templateType": "trip_l",
     "propertyId": "e92e3bbf-a256-4cbf-b11d-872f84e7a242",
     "homepageId": "01a0aa25-f810-792a-8810-757f4964d72e"
@@ -73,6 +73,55 @@
       "securityDeposit": 0
     },
     "facilities": [
+      {
+        "id": "01a19bc5-54c4-736a-ac6c-214e5b4c1297",
+        "name": "리버뷰",
+        "description": "창 너머로 펼쳐지는 풍경이\n머무는 시간의 흐름을 한층 더 여유롭게 만듭니다.",
+        "usageGuide": "",
+        "displayOrder": 0,
+        "images": [
+          {
+            "id": "01a19bc7-a224-773b-97c6-a7f0fe05e476",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a19bc5-54c4-736a-ac6c-214e5b4c1297/main/1793614913730-62ef8zfl9q.webp",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a19bc7-a561-72cb-98fc-a68b6bee5045",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a19bc5-54c4-736a-ac6c-214e5b4c1297/main/1793614913732-22b8ww9emf.webp",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a19bc7-a43c-797a-a4bb-ab9a8bbf057c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a19bc5-54c4-736a-ac6c-214e5b4c1297/main/1793614913731-s6u95ntckt.webp",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a19bc7-a534-7460-bfe6-bfc9f173b650",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a19bc5-54c4-736a-ac6c-214e5b4c1297/main/1793614913732-kct7bde9bt.webp",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a19bc7-a53f-7b26-b9af-d42b5347e882",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a19bc5-54c4-736a-ac6c-214e5b4c1297/main/1793614913737-m5g1z8urjd.webp",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
       {
         "id": "da561eb1-8bf6-4944-97fe-a53977bcb819",
         "name": "개별수영장",
@@ -2145,12 +2194,12 @@
               }
             ],
             "slider": false,
+            "videos": [ ],
             "enabled": true,
             "endDate": null,
             "sortOrder": 0,
             "startDate": null,
-            "description": "",
-            "videos": [ ]
+            "description": ""
           }
         ]
       },
